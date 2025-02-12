@@ -1,0 +1,15 @@
+Additional Percent Subsidy per Unit Grid Battery Capacity Deployed = -0.416
+Boolean Use Non BAU Capacity Retirement Schedule[hard coal es] = 1
+Boolean Use Non BAU Capacity Retirement Schedule[lignite es] = 1
+Boolean Use Non BAU Capacity Retirement Schedule[hard coal w CCS es] = 1
+Boolean Use Non BAU Mandated Capacity Retrofit Schedule[hard coal w CCS es] = 1
+Percent Reduction in BAU Subsidies[nuclear] = 1
+Percent Reduction in BAU Subsidies[wind] = 1
+Percent Reduction in BAU Subsidies[solar] = 1
+Percent Reduction in BAU Subsidies[geothermal] = 1
+Percentage Reduction in Plant Downtime[natural gas combined cycle es] = -0.29613
+Policy Implementation Schedule Selector = 3
+Boolean Use Non BAU Mandated Capacity Construction Schedule[onshore wind es] = 1
+Boolean Use Non BAU Mandated Capacity Construction Schedule[solar PV es] = 1
+Boolean Use Non BAU Mandated Capacity Construction Schedule[offshore wind es] = 1
+
